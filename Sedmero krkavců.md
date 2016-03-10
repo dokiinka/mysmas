@@ -47,7 +47,7 @@ a s veselou pak šli společně domů. [pozn1]
 
 
 
-<www.pohadky.org> - server plný pohádek pro malé i velké.
+*www.pohadky.org - server plný pohádek pro malé i velké.*
 *Licence Creative Commons 3.0 - Uvedte autora(BY)-Nevyuzivejte dilo komercne(NC)-Zachovejte licenci(SA)*
 
 *Webmaster: Petr Macek (webmaster@pohadky.org)*
